@@ -1,0 +1,13 @@
+[
+  {
+    "user_id": 1001,
+    "demographics": {
+      "name": "Ali Khan",
+      "dob": "1988-05-01"
+    },
+    "allergies": [
+      "penicillin"
+    ],
+    "encounters": []
+  }
+]
