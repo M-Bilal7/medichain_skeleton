@@ -1,0 +1,7 @@
+{
+  "name": "medichain/backend",
+  "description": "MediChain backend skeleton (Laravel-style)",
+  "require": {
+    "php": ">=8.1"
+  }
+}
